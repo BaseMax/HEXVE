@@ -5,7 +5,7 @@ Display and check the Hex Codes of the file(s).
 ## Similar Projects
 
 - [Xxd](http://www.tutorialspoint.com/unix_commands/xxd.htm)
-- Dhex
+- [Dhex](http://www.dettus.net/dhex/)
 - Vim
 - Emacs
 - Hexedit
